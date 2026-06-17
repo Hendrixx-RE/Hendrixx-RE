@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate problem solver <br>A bad worksman blames his tools
+Will Solve problems for bread <br> Waiting for AGI
 
 
 # 💻 Tech Stack:
